@@ -51,46 +51,56 @@ output:
 Postman Screen Images:
 
 A Car Entered to garage
+
 ![Ekran görüntüsü 2022-03-04 025548](https://user-images.githubusercontent.com/73203384/156674211-f96e4ee4-c6ba-4e4d-bfc7-0fcdaca80788.png)
 
 
 
 
 A Truck Entered to garage
+
 ![Ekran görüntüsü 2022-03-04 025734](https://user-images.githubusercontent.com/73203384/156674214-d9a55bcb-d8a7-40a6-b5ed-b26abc16a98f.png)
 
 
 
 
 A Jeep Entered to garage
+
 ![Ekran görüntüsü 2022-03-04 025757](https://user-images.githubusercontent.com/73203384/156674215-93064864-f323-4af4-a166-90478b2e5563.png)
 
 
 
 A Car couldnt entered to garage beacause garage is full.
+
 ![Ekran görüntüsü 2022-03-04 025822](https://user-images.githubusercontent.com/73203384/156674216-4da7f303-448d-489c-a6e0-6b77831c53ae.png)
 
 
 A Jeep couldnt entered to garage beacause garage is full.
+
 ![Ekran görüntüsü 2022-03-04 025848](https://user-images.githubusercontent.com/73203384/156674217-4b26147c-dc2d-45ff-84dd-a834965c0eb3.png)
 
 
 The Garage status.
+
 ![son](https://user-images.githubusercontent.com/73203384/156675992-846ca915-5f04-4976-97cc-fb483ff76f8c.png)
 
 
 
 A Truck left from garage.
+
 ![Ekran görüntüsü 2022-03-04 030229](https://user-images.githubusercontent.com/73203384/156674220-d703b7d1-9606-4a6d-9cca-9580dca5497d.png)
 
 
 
 A Jeep try to enter and It did
+
 ![Ekran görüntüsü 2022-03-04 030321](https://user-images.githubusercontent.com/73203384/156674221-d9cd2976-1402-4eb5-a6f7-309af7dd1e07.png)
 
 
 The Garage is empty.
-![son](https://user-images.githubusercontent.com/73203384/156676222-ade4c84f-37af-4b66-96be-ee982ddda003.png)
+
+![empty](https://user-images.githubusercontent.com/73203384/156712322-c568c36c-5f0e-4d8a-a2b6-6dda28f74638.png)
+
 
 
 
