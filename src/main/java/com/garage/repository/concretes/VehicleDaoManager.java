@@ -72,7 +72,7 @@ public class VehicleDaoManager implements VehicleDao {
     public String getStatus() {
         StringBuilder stringBuilder = new StringBuilder();
         for (Vehicle item : vehicles)
-            stringBuilder.append(item.getPlate()).append(" ").append(item.getColour()).append(item.getSlots()).append("\n");
+            stringBuilder.append(item.getPlate()).append(" ").append(item.getColour()).append(" ").append(item.getSlots()).append("\n");
         return stringBuilder.toString();
     }
 
