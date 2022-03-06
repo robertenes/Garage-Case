@@ -1,45 +1,46 @@
 # Garage-Case
 
-POSTMAN SERVICES CALL:
+### POSTMAN SERVICES CALL:
 
-Park Service:
+     
+#### Park Service:
 
 TYPE: POST
 
-URL: http://localhost:8080/v1/vehicle/park 
+- URL: http://localhost:8080/v1/vehicle/park 
 
-Body raw json: 
+- Body raw json: 
 {
     "vehicleType":  "Car",
     "colour": "Green",
     "plate": "34_RT_4568"
 }
 
-output: Allocated for 1 slot
+- output: Allocated for 1 slot
 
 
-Leave Service:
+#### Leave Service:
 
-TYPE: DELETE
+- TYPE: DELETE
 
-URL: http://localhost:8080/v1/vehicle/leave?key=1
+- URL: http://localhost:8080/v1/vehicle/leave?key=1
 
-output: Vehicle left
+- output: Vehicle left
 
 
-Status Service:
+#### Status Service:
 
-TYPE: GET
+- TYPE: GET
 
-URL: http://localhost:8080/v1/vehicle/status
+- URL: http://localhost:8080/v1/vehicle/status
 
-output:
++ output:
 
-34_YP_5698 Blue [1]
+  * 34_YP_5698 Blue [1]
 
-34_GR_4578 Red [3, 4, 5, 6]
+  * 34_GR_4578 Red [3, 4, 5, 6]
 
-34_GR_4578 Red [8, 9]
+  * 34_GR_4578 Red [8, 9]
 
 
 
@@ -50,7 +51,7 @@ output:
 ------------------------------------------------------------------------------------------------------------------------------------------
 Postman Screen Images:
 
-A Car Entered to garage
+> A Car Entered to garage
 
 ![Ekran görüntüsü 2022-03-04 025548](https://user-images.githubusercontent.com/73203384/156674211-f96e4ee4-c6ba-4e4d-bfc7-0fcdaca80788.png)
 
