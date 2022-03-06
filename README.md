@@ -10,7 +10,7 @@ URL: http://localhost:8080/v1/vehicle/park
 
 Body raw json: 
 {
-    "vehicleType":  null,
+    "vehicleType":  "Car",
     "colour": "Green",
     "plate": "34_RT_4568"
 }
