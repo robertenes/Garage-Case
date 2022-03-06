@@ -5,7 +5,7 @@
      
 #### Park Service:
 
-TYPE: POST
+`TYPE: POST`
 
 - URL: http://localhost:8080/v1/vehicle/park 
 
